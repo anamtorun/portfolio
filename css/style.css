@@ -1,0 +1,30 @@
+body{
+    font-family: 'Play', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.name{
+    color: #ffa600;
+    font-size: 60px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 200px;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#FFC9C9, #FF4C4C);
+    padding: 20px 30px;
+    border-radius: 8px;
+    font-weight: 800;
+    color: cornsilk;
+
+}
