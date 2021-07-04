@@ -1,30 +1,37 @@
 body{
     font-family: 'Play', sans-serif;
+    margin: 0%;
+}
+p{
+    text-align: justify;
 }
 
 h1{
-    font-size: 50px;
+    font-size: 70px;
 }
 .name{
     color: #ffa600;
-    font-size: 60px;
+    font-size: 55px;
 }
 section{
     display: flex;
 }
 .half-width{
     width: 50%;
-    padding-left: 200px;
+    padding-left: 150px;
 }
 .half-width img{
     width: 70%;
+    padding-top: 100px;
 }
-.link-button{
+.link-button {
     text-decoration: none;
-    background-image: linear-gradient(#FFC9C9, #FF4C4C);
-    padding: 20px 30px;
+    background-image: linear-gradient(#ff6c6c, #ffb300);
+    padding: 8px 25px;
     border-radius: 8px;
-    font-weight: 800;
+    font-weight: 800px;
     color: cornsilk;
-
-}
+}  
+.top-banner{
+    background-image: url(top/bi.png);
+    background-repeat: no-repeat;
